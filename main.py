@@ -1,1 +1,1 @@
-print("Hello world")
+# 3.2.2 Der euklidische Algorithmus
